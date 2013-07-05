@@ -31,6 +31,6 @@ number of active firms in a market reaches a stationary state increasing with, a
 costs.; (AN 48401303)
 ```
 
-(I bet you can't really find all the differences) And she says she needs to do this 70~100 times every week. Come on, what's a computer scientist for! So I wrote this tiny piece of code, only 6 lines of `.replace` would save her plenty of time. This is the time when I feel pride of my major :)
+(I bet you can't really find all the differences) And she says she needs to do this 70~100 times every week. Come on, what's a computer scientist for! So I wrote this tiny piece of code, only 6 lines of `.replace` would save her plenty of time. This is the moment when I feel pride of my major :)
 
 The web page is also available at [here](https://dl.dropboxusercontent.com/u/49091023/web/doc-formater/page.html)
